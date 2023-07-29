@@ -1,24 +1,24 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "bb",
+    name: "Bob",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
+    role: "Data Scientist (Data Analyst)",
+    bio: "최신 AI/ML 기술, 데이터 관련 동향을 기록합니다.",
     email: "leeobw@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    linkedin: "databb",
+    github: "datasbb",
     instagram: "",
   },
   projects: [
     {
-      name: `bb-log`,
-      href: "https://github.com/datasbb/bb-log",
+      name: `개인기록장`,
+      href: "https://blog.naver.com/databb",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "bb-log",
+    title: "AI/데이터 분석 관련 공부 기록장",
     description: "welcome to bb-log!",
   },
 
