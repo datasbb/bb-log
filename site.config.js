@@ -19,14 +19,14 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "AI, 데이터 분석 공부 기록장",
+    title: "[AI/데이터분석] 공부기록",
     description: "welcome to bb-log!",
   },
 
   // CONFIG configration (required)
   link: "https://bb-log.vercel.app",
   since: 2023, // If leave this empty, current year will be used.
-  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
