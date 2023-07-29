@@ -17,7 +17,6 @@ const CONFIG = {
       href: "",
     },
   ],
-  // blog setting (required)
   blog: {
     title: "[AI/데이터분석] 공부기록",
     description: "welcome to bb-log!",
