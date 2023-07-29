@@ -5,7 +5,7 @@ const CONFIG = {
     // image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     image: "/sh.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Data Scientist (Data Analyst)",
-    bio: "최신 AI/ML 기술, 데이터 관련 동향을 기록합니다.",
+    bio: "최신 AI/ML 기술, 데이터 관련 동향을 공부하고 기록합니다.",
     email: "leeobw@gmail.com",
     linkedin: "databb",
     github: "datasbb",
@@ -19,7 +19,7 @@ const CONFIG = {
   // ],
   // blog setting (required)
   blog: {
-    title: "AI, 데이터 분석 공부 기록",
+    title: "AI, 데이터 분석 공부 기록장",
     description: "welcome to bb-log!",
   },
 
