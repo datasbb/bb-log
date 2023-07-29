@@ -9,15 +9,15 @@ const CONFIG = {
     email: "leeobw@gmail.com",
     linkedin: "databb",
     github: "datasbb",
-    // instagram: "",
+    instagram: "",
   },
-  // projects: [
-  //   {
-  //     name: `취미기록(BLOG)`,
-  //     href: "https://blog.naver.com/databb",
-  //   },
-  // ],
-  // blog setting (required)
+  projects: [
+    {
+      name: `temp`,
+      href: "",
+    },
+  ],
+  blog setting (required)
   blog: {
     title: "AI, 데이터 분석 공부 기록장",
     description: "welcome to bb-log!",
